@@ -1,14 +1,11 @@
-﻿Build started 12/30/2014 5:56:48 PM.
-     1>Project "C:\work\phasecor\phasecor\phasecor.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\work\opencv\build\include\opencv2 /IC:\work\opencv\build\include /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\phasecor.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt phasecor.cpp
-         phasecor.cpp
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\work\phasecor\x64\Debug\phasecor.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\work\opencv\build\x64\vc12\lib opencv_core2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\work\phasecor\x64\Debug\phasecor.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\work\phasecor\x64\Debug\phasecor.lib" /MACHINE:X64 x64\Debug\phasecor.obj
+﻿Build started 3/11/2015 9:43:30 AM.
+     1>Project "C:\work\dogs\phasecor\phasecor\phasecor.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\work\dogs\phasecor\x64\Debug\phasecor.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\work\opencv\build\x64\vc12\lib opencv_core2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\work\dogs\phasecor\x64\Debug\phasecor.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\work\dogs\phasecor\x64\Debug\phasecor.lib" /MACHINE:X64 x64\Debug\phasecor.obj
          x64\Debug\stdafx.obj
-         phasecor.vcxproj -> C:\work\phasecor\x64\Debug\phasecor.exe
-     1>Done Building Project "C:\work\phasecor\phasecor\phasecor.vcxproj" (Build target(s)).
+         phasecor.vcxproj -> C:\work\dogs\phasecor\x64\Debug\phasecor.exe
+     1>Done Building Project "C:\work\dogs\phasecor\phasecor\phasecor.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.03
+Time Elapsed 00:00:00.50

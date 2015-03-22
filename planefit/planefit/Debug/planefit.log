@@ -1,0 +1,11 @@
+﻿Build started 1/18/2015 10:19:56 PM.
+     1>Project "c:\Users\Glenn\documents\visual studio 2012\Projects\planefit\planefit\planefit.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\planefit.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\users\glenn\documents\visual studio 2012\projects\planefit\planefit\stdafx.h(16): fatal error C1083: Cannot open include file: 'opencv2/imgproc/imgproc.hpp': No such file or directory
+     1>Done Building Project "c:\Users\Glenn\documents\visual studio 2012\Projects\planefit\planefit\planefit.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.14
